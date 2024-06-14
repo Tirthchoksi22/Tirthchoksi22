@@ -61,17 +61,16 @@ Here are some of the projects I've worked on:
 
 ## 📫 How to Reach Me
 
-- **Email**: [Your Email Address]
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/YourUsername/)
-- **GitHub**: [Your GitHub Profile](https://github.com/YourUsername/)
-- **Portfolio**: [Your Portfolio Website](https://YourPortfolioWebsite.com)
+- **Email**: [tirthchoksi2204@gmail.com]
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/tirth-choksi-44667b1b8)
+- **GitHub**: [GitHub Profile](https://github.com/Tirthchoksi22)
+- **Portfolio**: [Portfolio Website](https://tirth-choksi.netlify.app/)
 
 ---
 
 ## 🌐 Social
 
 - [LinkedIn](https://www.linkedin.com/in/tirth-choksi-44667b1b8)
-- [Twitter](https://twitter.com/YourUsername)
 - [Medium](https://medium.com/@tirthchoksi2204)
 
 ---
