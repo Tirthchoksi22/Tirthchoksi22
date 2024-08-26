@@ -49,27 +49,27 @@ I'm a passionate 3rd-year Computer Engineering student at Gujarat Technological 
 
 Here are some of the projects I've worked on:
 
-1. **[Movie Recommendation System](https://github.com/Tirthchoksi22/Movie-Recommendation-System)**
+1. **[Movie Recommendation System](https://github.com/Tirthchoksi22/Movie-recommendation-WebApp)**
    - Developed a recommendation system using collaborative filtering and content-based filtering.
    - Technologies: Python, Scikit-learn
-   - [View Project](https://github.com/Tirthchoksi22/Movie-Recommendation-System)
+   - [View Project](https://github.com/Tirthchoksi22/Movie-recommendation-WebApp)
 
-2. **[Iris Classification Model](https://github.com/Tirthchoksi22/Iris-Classification-Model)**
+2. **[Iris Classification Model](https://github.com/Tirthchoksi22/Iris_Classification_Model)**
    - Created a machine learning model to classify iris species with high accuracy.
    - Technologies: Python, Scikit-learn
-   - [View Project](https://github.com/Tirthchoksi22/Iris-Classification-Model)
+   - [View Project](https://github.com/Tirthchoksi22/Iris_Classification_Model)
 
-3. **[Hogwarts Sorting and Grading Simulation](https://github.com/YourUsername/Hogwarts-Sorting-Grading-Simulation)**
+3. **[Hogwarts Sorting and Grading Simulation](https://github.com/Tirthchoksi22/hogwarts-Sorting)**
    - Designed a simulation to sort students into houses and grade them based on their attributes.
    - Technologies: Python
-   - [View Project](https://github.com/YourUsername/Hogwarts-Sorting-Grading-Simulation)
+   - [View Project](https://github.com/Tirthchoksi22/hogwarts-Sorting)
 
 4. **[Weather Forecast App](https://github.com/YourUsername/Weather-Forecast-App)**
    - Developed a weather forecast application with a graphical user interface.
    - Technologies: Python, Tkinter
-   - [View Project](https://github.com/YourUsername/Weather-Forecast-App)
+   - [View Project](https://github.com/Tirthchoksi22/Weather_forecast)
 
-5. **[Portfolio Website](https://github.com/YourUsername/Portfolio-Website)**
+5. **[Portfolio Website](https://github.com/Tirthchoksi22/Portfolio-website)**
    - Built a responsive personal portfolio website to showcase my projects and skills.
    - Technologies: HTML, CSS, JavaScript
    - [View Project](https://tirth-choksi.netlify.app/)
