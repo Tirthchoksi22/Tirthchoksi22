@@ -49,15 +49,15 @@ I'm a passionate 3rd-year Computer Engineering student at Gujarat Technological 
 
 Here are some of the projects I've worked on:
 
-1. **[Movie Recommendation System](https://github.com/YourUsername/Movie-Recommendation-System)**
+1. **[Movie Recommendation System](https://github.com/Tirthchoksi22/Movie-Recommendation-System)**
    - Developed a recommendation system using collaborative filtering and content-based filtering.
    - Technologies: Python, Scikit-learn
-   - [View Project](https://github.com/YourUsername/Movie-Recommendation-System)
+   - [View Project](https://github.com/Tirthchoksi22/Movie-Recommendation-System)
 
-2. **[Iris Classification Model](https://github.com/YourUsername/Iris-Classification-Model)**
+2. **[Iris Classification Model](https://github.com/Tirthchoksi22/Iris-Classification-Model)**
    - Created a machine learning model to classify iris species with high accuracy.
    - Technologies: Python, Scikit-learn
-   - [View Project](https://github.com/YourUsername/Iris-Classification-Model)
+   - [View Project](https://github.com/Tirthchoksi22/Iris-Classification-Model)
 
 3. **[Hogwarts Sorting and Grading Simulation](https://github.com/YourUsername/Hogwarts-Sorting-Grading-Simulation)**
    - Designed a simulation to sort students into houses and grade them based on their attributes.
